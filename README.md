@@ -1,0 +1,1 @@
+Recipe Book App designed to bring your culinary adventures to life! Inspired by tutorials from YouTube channel Blabla, this app combines the best of modern technology and traditional cooking to offer an unparalleled experience in your kitchen
